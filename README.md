@@ -2,8 +2,18 @@
 
 <h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samriddhi Jain</h1>
 <h3 align="center">I'm a student, Full Stack Developer, ML Enthusiast.</h3>
-<br>
-<h2 align="center">🙋 About Me</h2>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Samriddhi43">
+</a>
+<a href="https://github.com/Samriddhi43?tab=followers"><img src="https://img.shields.io/github/followers/Samriddhi43?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/samriddhi-jain-9926b5211" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:samriddhijain43934@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<h3> About Me</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -13,24 +23,27 @@
 <br>
 <br>
 
-<h2 align="center">🚀Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 
-### Language:
+<h3> Language:</h3>
+
  ![Python](https://img.icons8.com/color/48/000000/python.png)
  ![R](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
-### Libraries & Framework :
+
+<h3> Libraries & Framework :</h3>
+
 ![Reactjs](https://img.icons8.com/color/48/000000/react-native.png)
 ![Nodejs](https://img.icons8.com/color/48/000000/nodejs.png) 
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 
+<h3> DevOps & Cloud Tools:</h3>
 
-### DevOps & Cloud Tools:
 <a href="#"><img alt="GitHub Pages" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -39,46 +52,19 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+<h3> 📊 My Github Stats </h3>
 <p align="center">
     <a href="https://github.com/Samriddhi43/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samriddhi43 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi43&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img width="48%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samriddhi43 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi43&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+     <a href="https://github.com/Samriddhi43/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Samriddhi43/github-readme-stats"><img alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Samriddhi43/github-readme-stats"><img alt="Samriddhi Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi43&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
-<br/>
-
 <a href="https://github.com/Samriddhi43/github-readme-activity-graph"><img alt="Samriddhi jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samriddhi43&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/samriddhi-jain-9926b5211" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Samridd667195?t=Oj0EXBb4q3UPCENIlI03sw&s=09" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-</a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Samriddhi43-DAS/github-profile-views-counter"><!-- Meghna -->
-
- <img src="https://komarev.com/ghpvc/?username=Samriddhi43">
-</a>
-<a href="https://github.com/Samriddhi43?tab=followers"><img src="https://img.shields.io/github/followers/Samriddhi43?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
 
 
 
