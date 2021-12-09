@@ -68,6 +68,8 @@
 
 <br/>
 <br/>
+<hr>
+<img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/Ankit0225/Ankit0225/blob/main/marquee.svg"/> 
 
 
 
