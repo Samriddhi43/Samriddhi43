@@ -48,7 +48,7 @@
 
 <a href="#"><img alt="GitHub Pages" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -60,11 +60,11 @@
     <a href="https://github.com/Samriddhi43/github-readme-streak-stats">
         <img width="48%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samriddhi43 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi43&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-     <a href="https://github.com/Samriddhi43/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/Samriddhi43/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 </p>
-  <a href="https://github.com/Samriddhi43/github-readme-stats"><img alt="Samriddhi Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi43&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<a href="https://github.com/Samriddhi43/github-readme-activity-graph"><img alt="Samriddhi jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samriddhi43&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <!-- <a href="https://github.com/Samriddhi43/github-readme-stats"><img alt="Samriddhi Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi43&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/> -->
+<!-- <a href="https://github.com/Samriddhi43/github-readme-activity-graph"><img alt="Samriddhi jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samriddhi43&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
